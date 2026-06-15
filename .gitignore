@@ -1,0 +1,22 @@
+# Data should not be committed
+data/*
+!data/.gitkeep
+
+# Generated artifacts
+artifacts/
+submission.csv
+report.pdf
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
