@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+joblib
+# Optional if preinstalled or manually added:
+# xgboost
+# lightgbm
+# catboost
